@@ -1,0 +1,11 @@
+1|Kevin Bacon
+1001|Ana
+1002|Beatriz
+1003|Claudio
+1004|Daniel
+1005|Eduardo
+1006|Flavia
+1007|Gabriel
+1008|Julia
+1009|Katia
+1010|Lucio
